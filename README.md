@@ -1,2 +1,2 @@
-# fsw-105
-# fsw-105
+# FSW-105—Fundamentals Programming for the Web - JavaScript
+Students will learn the building blocks of programming, including variables, conditionals, loops, functions, data types, constructors, and functional programming. Students will complete exercises using the JavaScript programming language and be introduced to the practice of version control software using Git. Students will practice skills that demonstrate professional attitude and behavior (e.g. teamwork, leadership, and communication).
