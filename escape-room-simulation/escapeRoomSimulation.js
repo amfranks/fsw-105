@@ -12,6 +12,7 @@
 // Remember, you can't open the door unless you find the key first.
 // You die if you put your hand in the hole.
 
+const { networkInterfaces } = require('os');
 const readline = require('readline-sync'); // Pulling in readline-sync
 
 const name = readline.question('What is your name? '); // Asks player for name
@@ -41,4 +42,15 @@ while (playerLife == true) {
         console.log(`Congrats ${name}, you found a way out!`);
         playerLife = false;
     }
+}jklhbjkljklhnhjjjyhjujkl;lkjlkj
+
+
+
+
+
+
+
+functilon kidSaidHesACodingWeeinie () {
+    return runescape + toontown;
 }
+console.log(can you help me with my escape room project when you get the chance? I love the keyboard btw. Also you neeed a new lightbulb i your rooom. im leaving for mass now peace);
